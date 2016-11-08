@@ -30,127 +30,129 @@ Kaidah ejaan yang berlaku bagi unsur serapan itu adalah sebagai berikut.
 | *z**a**lim*       | ( ظالم )       | z*a*lim       |
 
 ‘ain ( . Arab) pada awal suku kata menjadi a, i, u
-‘aja’ib ( ..... ) ajaib
-sa‘adah ( ..... ) saadah
-‘ilm ( ... ) ilmu
-qa‘idah ( ..... ) kaidah
-‘uzr ( ... ) uzur
-ma‘unah ( ..... ) maunah
+ | **‘a**ja’ib*  |( ..... ) |ajaib |
+ | *sa**‘a**dah* |( ..... ) |saadah |
+ | ***‘i**lm*    |( ... ) |ilmu |
+ | *qa**‘i**dah* |( ..... ) |kaidah |
+ | **‘u**zr*     |( ... ) uzur |
+ | *ma**‘u**nah* |( ..... ) |maunah |
 
 ‘ain ( . Arab) di akhir suku kata menjadi k
-’i‘ tiqad ( ...... ) iktikad
-mu‘jizat ( ..... ) mukjizat
-ni‘mat ( .... ) nikmat
-ruku‘ ( .... ) rukuk
-sima‘ ( .... ) simak
-ta‘rif ( ..... ) takrif
+ | *’i**‘**tiqad* |( ...... ) |iktikad |
+ | *mu**‘**jizat* |( ..... ) |mukjizat |
+ | *ni**‘**mat*   |( .... ) |nikmat |
+ | *ruku**‘**     |( .... ) |rukuk |
+ | *sima**‘**     |( .... ) |simak |
+ | *ta**‘**rif*   |( ..... ) |takrif |
 
 aa (Belanda) menjadi a
-paal pal
-baal bal
-octaaf oktaf
+| *p**aa**l*   | p*a*l   |
+| *b**aa**l*   | b*a*l   |
+| *oct**aa**f* | okt*a*f |
 
 ae tetap ae jika tidak bervariasi dengan e
-aerobe aerob
-aerodinamics aerodinamika
+| **ae**robe*       | *ae*rob        |
+| **ae**rodinamics* | *ae*rodinamika |
 
 ae, jika bervariasi dengan e, menjadi e
-haemoglobin hemoglobin
-haematite hematit
-trailer trailer
-caisson kaison
+| *h**ae**moglobin* | h*e*moglobin |
+| *h**ae**matite*   | h*e*matit    |
+
+
+| *tr**ai**ler* | tr*ai*ler |
+| *c**ai**sson* | k*ai*son  |
 
 au tetap au
-audiogram audiogram
-autotroph autotrof
-tautomer tautomer
-hydraulic hidraulik
-caustic kaustik
+| **au**diogram*  | *au*diogram |
+| **au**totroph*  | *au*totrof  |
+| *t**au**tomer * | t*au*tomer  |
+| *hydr**au**lic* | hidr*au*lik |
+| *c**au**stic*   | k*au*stik   |
 
 c di depan a, u, o, dan konsonan menjadi k
-calomel kalomel
-construction konstruksi
-cubic kubik
-coup kup
-classification klasifikasi
-crystal kristal
+| **c**alomel*        | *k*alomel|
+| **c**onstruction*   | *k*onstruksi
+| **c**ubic*          | *k*ubik|
+| **c**oup*           | *k*up|
+| **c**lassification* | *k*lasifikasi
+| **c**rystal*        | *k*ristal
 
 c di depan e, i, oe, dan y menjadi s
-central sentral
-cent sen
-circulation sirkulasi
-coelom selom
-cybernetics sibernetika
-cylinder silinder
+| **c**entral*     | *s*entral     |
+| **c**ent*        | *s*en         |
+| **c**irculation* | *s*irkulasi   |
+| **c**oelom*      | *s*elom       |
+| **c**ybernetics* | *s*ibernetika |
+| **c**ylinder*    | *s*ilinder    |
 
 cc di depan o, u, dan konsonan menjadi k
-accomodation akomodasi
-acculturation akulturasi
-acclimatization aklimatisasi
-accumulation akumulasi
-acclamation aklamasi
+| *a**cc**omodation*    | a*k*omodasi    |
+| *a**cc**ulturation*   | a*k*ulturasi   |
+| *a**cc**limatization* | a*k*limatisasi |
+| *a**cc**umulation*    | a*k*umulasi    |
+| *a**cc**lamation*     | a*k*lamasi     |
 
 cc di depan e dan i menjadi ks
-accent aksen
-accessory aksesori
-vaccine vaksin
+| *a**cc**ent*    | a*ks*en    |
+| *a**cc**essory* | a*ks*esori |
+| *va**cc**ine*   | va*ks*in   |
 
 cch dan ch di depan a, o, dan konsonan menjadi k
-saccharin sakarin
-charisma karisma
-cholera kolera
-chromosome kromosom
-technique teknik
+| *sa**cch**arin* | sa*k*arin  |
+| **ch**arisma*   | *k*arisma  |
+| **ch**olera*    | *k*olera   |
+| **ch**romosome* | *k*romosom |
+| *te**ch**nique* | te*k*nik   |
 
 ch yang lafalnya s atau sy menjadi s
-echelon eselon
-machine mesin
+| *e**ch**elon* | e*s*elon |
+| *ma**ch**ine* | me*s*in  |
 
 ch yang lafalnya c menjadi c
-charter carter
-chip cip
+| **ch**arter* | *c*arter |
+| **ch**ip*    | *c*ip    |
 
 ck menjadi k
-check cek
-ticket tiket
+| *che**ck**   | ce*k*   |
+| *ti**ck**et* | ti*k*et |
 
 ç (Sanskerta) menjadi s
-çabda sabda
-çastra sastra
+| **ç**abda*  | *s*abda  |
+| **ç**astra* | *s*astra |
 
 .ad ( . Arab) menjadi d
-’af.al ( .... ) afdal
-.a’if ( .... ) daif
-far. ( ... ) fardu
-ha.ir ( .... ) hadir
+| *’af.al*  |  ( .... )| afdal|
+| *.a’if*  |  ( .... )| daif|
+| *far.*  |  ( ... )| fardu||
+| *ha.ir*  |  ( .... )| hadir|
 
-e tetap e
-effect efek
-description deskripsi
-synthesis sintesis
+e tetap e|
+| *effect*  | efek|
+| *description*  | deskripsi|
+| *synthesis*  | sintesis|
 
 ea tetap ea
-idealist idealis
-habeas habeas
+| *idealist*  | idealis|
+| *habeas*  | habeas|
 
 ee (Belanda) menjadi e
-stratosfeer stratosfer
-systeem sistem
+| *stratosfeer*  | stratosfer
+| *systeem*  |*  | sistem
 
 ei tetap ei
-eicosane eikosan
-eidetic eidetik
-einsteinium einsteinium
+| *eicosane*  | eikosan
+| *eidetic*  | eidetik
+| *einsteinium*  | einsteinium
 
 eo tetap eo
-stereo stereo
-geometry geometri
-zeolite zeolit
+| *stereo*  | stereo
+| *geometry*  | geometri
+| *zeolite*  | zeolit
 
 eu tetap eu
-neutron neutron
-eugenol eugenol
-europium europium
+| *neutron*  | neutron
+| *eugenol*  | eugenol
+| *europium*  |europium
 
 fa ( . Arab) menjadi f
 'af.al ( .... ) afdal
@@ -160,284 +162,283 @@ fa.ih ( .... ) fasih
 mafhum ( ..... ) mafhum
 
 f tetap f
-fanatic fanatik
-factor faktor
-fossil fosil
+| *fanatic*  | fanatik
+| *factor*  | faktor
+| *fossil*  | fosil
 
 gh menjadi g
-ghanta genta
-sorghum sorgum
+| *ghanta*  | genta
+| *sorghum*  | sorgum
 
-gain ( . Arab) menjadi g
-ga’ib ( .... ) gaib
-magfirah ( ..... ) magfirah
-magrib ( .... ) magrib
+gain*  | ( . Arab) menjadi g
+ga’ib*  | ( .... ) gaib
+magfirah*  | ( ..... ) magfirah
+magrib*  | ( .... ) magrib
 
 gue menjadi ge
-igue ige
-gigue gige
+| *igue*  | ige
+| *gigue*  | gige
 
 .a ( . Arab) menjadi h
-.akim ( .... ) hakim
-i.la. ( ..... ) islah
-si.r ( ... ) sihir
+.akim*  | ( .... ) hakim
+i.la.*  | ( ..... ) islah
+si.r*  | ( ... ) sihir
 
 hamzah ( . Arab) yang diikuti oleh vokal menjadi a, i, u
-’amr ( ... ) amar
-mas’alah ( ..... ) masalah
-’i.la. ( ..... ) islah
-qa’idah ( ..... ) kaidah
-’ufuq ( ... ) ufuk
+’amr*  | ( ... ) amar
+mas’alah*  | ( ..... ) masalah
+’i.la.*  | ( ..... ) islah
+qa’idah*  | ( ..... ) kaidah
+’ufuq*  | ( ... ) ufuk
 
 hamzah ( . Arab) di akhir suku kata, kecuali di akhir kata, menjadi k
-ta’wil ( ..... ) takwil
-ma’mum ( ..... ) makmum
-mu’min ( .... ) mukmin
+ta’wil*  | ( ..... ) takwil
+ma’mum*  | ( ..... ) makmum
+mu’min*  | ( .... ) mukmin
 
 hamzah ( . Arab) di akhir kata dihilangkan
-imla’ ( ..... ) imla
-istinja’ ( ....... ) istinja/tinja
-munsyi’ ( ..... ) munsyi
-wu.u’ ( .... ) wudu
+imla’*  | ( ..... ) imla
+istinja’*  | ( ....... ) istinja/tinja
+munsyi’*  | ( ..... ) munsyi
+wu.u’*  | ( .... ) wudu
 
 i (Arab, bunyi pendek atau bunyi panjang) menjadi i
-'i‘tiqad ( ...... ) iktikad
-muslim ( .... ) muslim
-na.i.ah ( ..... ) nasihat
-.a.i. ( .... ) sahih
+'i‘tiqad*  | ( ...... ) iktikad
+muslim*  | ( .... ) muslim
+na.i.ah*  | ( ..... ) nasihat
+.a.i.*  | ( .... ) sahih
 
 i pada awal suku kata di depan vokal tetap i
-iambus iambus
-ion ion
-iota iota
+| *iambus*  | iambus
+| *ion*  | ion
+| *iota*  | iota
 
 ie (Belanda) menjadi i jika lafalnya i
-politiek politik
-riem rim
+| *politiek*  | politik
+| *riem*  | rim
 
 ie tetap ie jika lafalnya bukan i
-variety varietas
-patient pasien
-hierarchy hierarki
+| *variety*  | varietas
+| *patient*  | pasien
+| *hierarchy*  | hierarki
 
 jim ( . Arab) menjadi j
-jariyah ( ..... ) jariah
-janazah ( ..... ) jenazah
-'ijazah ( ..... ) ijazah
+jariyah*  | ( ..... ) jariah
+janazah*  | ( ..... ) jenazah
+'ijazah*  | ( ..... ) ijazah
 
 kha ( . Arab) menjadi kh
-khu.u. ( .... ) khusus
-makhluq ( ..... ) makhluk
-tarikh ( ..... ) tarikh
+khu.u.*  | ( .... ) khusus
+makhluq*  | ( ..... ) makhluk
+tarikh*  | ( ..... ) tarikh
 
 ng tetap ng
-contingent kontingen
-congres kongres
-linguistics linguistik
+| *contingent*  | kontingen
+| *congres*  | kongres
+| *linguistics*  | linguistik
 
 oe (oi Yunani) menjadi e
-foetus fetus
-oestrogen estrogen
-oenology enologi
+| *foetus*  | fetus
+| *oestrogen*  | estrogen
+| *oenology*  | enologi
 
 oo (Belanda) menjadi o
-komfoor kompor
-provoost provos
+| *komfoor*  | kompor
+| *provoost*  | provos
 
 oo (Inggris) menjadi u
-cartoon kartun
-proof pruf
-pool pul
+| *cartoon*  | kartun
+| *proof*  | pruf
+| *pool*  | pul
 
 oo (vokal ganda) tetap oo
-zoology zoologi
-coordination koordinasi
+| *zoology*  | zoologi
+| *coordination koordinasi
 
 ou menjadi u jika lafalnya u
-gouverneur gubernur
-coupon kupon
-contour kontur
+| *gouverneur*  | gubernur
+| *coupon*  | kupon
+| *contour*  | kontur
 
 ph menjadi f
-phase fase
-physiology fisiologi
-spectograph spektograf
+| *phase*  | fase
+| *physiology*  | fisiologi
+| *spectograph*  | spektograf
 
 ps tetap ps
-pseudo pseudo
-psychiatry psikiatri
-psychic psikis
-psychosomatic psikosomatik
+| *pseudo*  | pseudo
+| *psychiatry*  | psikiatri
+| *psychic*  | psikis
+| *psychosomatic*  | psikosomatik
 
 pt tetap pt
-pterosaur pterosaur
-pteridology pteridologi
-ptyalin ptialin
+| *pterosaur*  | pterosaur
+| *pteridology*  | pteridologi
+| *ptyalin *  |ptialin
 
 q menjadi k
-aquarium akuarium
-frequency frekuensi
-equator ekuator
+| *aquarium*  | akuarium
+| *frequency*  | frekuensi
+| *equator*  | ekuator
 
 qaf ( . Arab) menjadi k
-‘aqiqah ( ..... ) akikah
-maqam ( .... ) makam
-mu.laq ( .... ) mutlak
+‘aqiqah*  | ( ..... ) akikah
+maqam*  | ( .... ) makam
+mu.laq*  | ( .... ) mutlak
 
 rh menjadi r
-rhapsody rapsodi
-rhombus rombus
-rhythm ritme
-rhetoric retorika
+| *rhapsody*  | rapsodi
+| *rhombus*  | rombus
+| *rhythm*  | ritme
+| *rhetoric*  | retorika
 
-sin ( . Arab) menjadi s
-asas ( .... ) asas
-salam ( .... ) salam
-silsilah ( .... ) silsilah
+sin*  | ( . Arab) menjadi s
+asas*  | ( .... ) asas
+salam*  | ( .... ) salam
+silsilah*  | ( .... ) silsilah
 
 sa ( . Arab) menjadi s
-asiri ( ..... ) asiri
-.adis ( .... ) hadis
-sulasa ( . .... ... ) selasa
-waris ( .... ) waris
+asiri*  | ( ..... ) asiri
+.adis*  | ( .... ) hadis
+sulasa*  | ( . .... ... ) selasa
+waris*  | ( .... ) waris
 
 .ad ( . Arab) menjadi s
-‘a.r ( ... ) asar
-mu.ibah ( ..... ) musibah
-khu.u. ( .... ) khusus
-.a.. ( .. ) sah
+‘a.r*  | ( ... ) asar
+mu.ibah*  | ( ..... ) musibah
+khu.u.*  | ( .... ) khusus
+.a..*  | ( .. ) sah
 
 syin ( . Arab) menjadi sy
-‘asyiq ( .... ) asyik
-‘arsy ( ... ) arasy
-syar. ( ... ) syarat
+‘asyiq*  | ( .... ) asyik
+‘arsy*  | ( ... ) arasy
+syar.*  | ( ... ) syarat
 
 sc di depan a, o, u, dan konsonan menjadi sk
-scandium skandium
-scotopia skotopia
-scutella skutela
-sclerosis sklerosis
+| *scandium*  | skandium
+| *scotopia*  | skotopia
+| *scutella *  |skutela
+| *sclerosis*  | sklerosis
 
 sc di depan e, i, dan y menjadi s
-scenography senografi
-scintillation sintilasi
-scyphistoma sifistoma
+| *scenography*  | senografi
+| *scintillation*  | sintilasi
+| *scyphistoma*  | sifistoma
 
 sch di depan vokal menjadi sk
-schema skema
-schizophrenia skizofrenia
-scholastic skolastik
+| *schema*  | skema
+| *schizophrenia*  | skizofrenia
+| *scholastic*  | skolastik
 
 t di depan i menjadi s jika lafalnya s
-actie aksi
-ratio rasio
-patient pasien
+| *actie*  | aksi
+| *ratio*  | rasio
+| *patient*  | pasien
 
 .a ( . Arab) menjadi t
-kha.. ( .. ) khat
-mu.laq ( .... ) mutlak
-.abib ( .... ) tabib
+kha..*  | ( .. ) khat
+mu.laq*  | ( .... ) mutlak
+.abib*  | ( .... ) tabib
 
 th menjadi t
-theocracy teokrasi
-orthography ortografi
-thrombosis trombosis
-methode (Belanda) metode
+| *theocracy*  | teokrasi
+| *orthography*  | ortografi
+| *thrombosis*  | trombosis
+| *methode (Belanda) metode
 
 u tetap u
-unit unit
-nucleolus nukleolus
-structure struktur
-institute institut
+| *unit*  | unit
+| *nucleolus*  | nukleolus
+| *structure*  | struktur
+| *institute*  | institut
 
 u (Arab, bunyi pendek atau bunyi panjang) menjadi u
-ruku’ ( .... ) rukuk
-syub.at ( .... . ) syubhat
-sujud ( .... ) sujud
+ruku’*  | ( .... ) rukuk
+syub.at*  | ( .... . ) syubhat
+sujud*  | ( .... ) sujud
 ’ufuq ( ... ) ufuk
 
 ua tetap ua
-aquarium akuarium
-dualisme dualisme
-squadron skuadron
+| *aquarium*  | akuarium
+| *dualisme*  | dualisme
+| *squadron*  | skuadron
 
 ue tetap ue
-consequent konsekuen
-duet duet
-suede sued
+| *consequent*  | konsekuen
+| *duet*  | duet
+| *suede*  | sued
 
 ui tetap ui
-conduite konduite
-equinox ekuinoks
-equivalent ekuivalen
+| *conduite*  | konduite
+| *equinox*  | ekuinoks
+| *equivalent*  | ekuivalen
 
 uo tetap uo
-fluorescein fluoresein
-quorum kuorum
-quota kuota
+| *fluorescein*  | fluoresein
+| *quorum*  | kuorum
+| *quota*  | kuota
 
 uu menjadi u
-lectuur lektur
-prematuur prematur
-vacuum vakum
+| *lectuur*  | lektur
+| *prematuur*  | prematur
+| *vacuum*  | vakum
 
 v tetap v
-evacuation evakuasi
-television televisi
-vitamin
-vitamin
+| *evacuation*  | evakuasi
+| *television*  | televisi
+| *vitamin*  | vitamin
 
 wau ( . Arab) tetap w
-jadwal ( .... ) jadwal
-taqwa ( .... ) takwa
-wujud ( .... ) wujud
+jadwal*  | ( .... ) jadwal
+taqwa*  | ( .... ) takwa
+wujud*  | ( .... ) wujud
 
 wau ( . Arab, baik satu maupun dua konsonan) yang didahului u dihilangkan
-nahwu ( ... ) nahu
-nubuwwah ( ..... . ) nubuat
-quwwah ( .... . ) kuat
+nahwu*  | ( ... ) nahu
+nubuwwah*  | ( ..... . ) nubuat
+quwwah*  | ( .... . ) kuat
 
 aw (diftong Arab) menjadi au, termasuk yang diikuti konsonan
-awrat ( .... ) aurat
-hawl ( ... ) haul
-mawlid ( .... ) maulid
-walaw ( ... ) walau
+awrat*  | ( .... ) aurat
+hawl*  | ( ... ) haul
+mawlid*  | ( .... ) maulid
+walaw*  | ( ... ) walau
 
 x pada awal kata tetap x
-xanthate xantat
-xenon xenon
-xylophone xilofon
+| *xanthate*  | xantat
+| *xenon*  | xenon
+| *xylophone*  | xilofon
 
 x pada posisi lain menjadi ks
-executive eksekutif
-express ekspres
-latex lateks
-taxi taksi
+| *executive*  | eksekutif
+| *express*  | ekspres
+| *latex*  | lateks
+| *taxi*  | taksi
 
 xc di depan e dan i menjadi ks
-exception eksepsi
-excess ekses
-excision eksisi
-excitation eksitasi
+| *exception*  | eksepsi
+| *excess*  | ekses
+| *excision *  |eksisi
+| *excitation*  | eksitasi
 
 xc di depan a, o, u, dan konsonan menjadi ksk
-excavation ekskavasi
-excommunication ekskomunikasi
-excursive ekskursif
-exclusive eksklusif
+| *excavation ekskavasi
+| *excommunication ekskomunikasi
+| *excursive ekskursif
+| *exclusive eksklusif
 
 y tetap y jika lafalnya y
-yakitori yakitori
-yangonin yangonin
-yen yen
-yuan yuan
+| *yakitori yakitori
+| *yangonin yangonin
+| *yen yen
+| *yuan yuan
 
 y menjadi i jika lafalnya ai atau i
-dynamo dinamo
-propyl propil
-psychology psikologi
-yttrium
-itrium
+| *dynamo dinamo
+| *propyl propil
+| *psychology psikologi
+| *yttrium
+| *itrium
 
 ya ( . Arab) di awal suku kata menjadi y
 ‘inayah ( ..... ) inayah
@@ -450,10 +451,10 @@ qiyas ( .... ) kias
 ziyarah ( ..... ) ziarah
 
 z tetap z
-zenith zenit
-zirconium zirkonium
-zodiac zodiak
-zygote zigot
+| *zenith zenit
+| *zirconium zirkonium
+| *zodiac zodiak
+| *zygote zigot
 
 zai ( . Arab) tetap z
 ijazah ( ..... ) ijazah
